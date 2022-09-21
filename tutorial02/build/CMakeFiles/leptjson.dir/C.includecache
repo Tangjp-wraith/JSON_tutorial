@@ -13,6 +13,10 @@ assert.h
 -
 stdlib.h
 -
+math.h
+-
+string.h
+-
 
 /home/tang/Projects/JSON_tutorial/tutorial02/leptjson.h
 
