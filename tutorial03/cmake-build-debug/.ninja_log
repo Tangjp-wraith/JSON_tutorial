@@ -1,0 +1,22 @@
+# ninja log v5
+1	276	6855509382329206	CMakeFiles/leptjson.dir/leptjson.c.obj	fcad981ac445505
+9	489	6855509384409182	CMakeFiles/leptjson_test.dir/test.c.obj	2a9633ed55bbd93d
+278	491	6855509384449208	libleptjson.a	62145fe0ecc6612c
+491	839	6855509387845260	leptjson_test.exe	990dbf60f5d05b21
+2	179	6855563863901746	CMakeFiles/leptjson_test.dir/test.c.obj	2a9633ed55bbd93d
+180	324	6855563865271570	leptjson_test.exe	990dbf60f5d05b21
+1	154	6855567925178661	CMakeFiles/leptjson_test.dir/test.c.obj	2a9633ed55bbd93d
+154	262	6855567926238806	leptjson_test.exe	990dbf60f5d05b21
+3	247	6856935462112056	CMakeFiles/leptjson.dir/leptjson.c.obj	fcad981ac445505
+11	294	6856935462582112	CMakeFiles/leptjson_test.dir/test.c.obj	2a9633ed55bbd93d
+248	345	6856935463122032	libleptjson.a	62145fe0ecc6612c
+345	518	6856935464801216	leptjson_test.exe	990dbf60f5d05b21
+2	175	6856935739891986	CMakeFiles/leptjson_test.dir/test.c.obj	2a9633ed55bbd93d
+175	320	6856935741322121	leptjson_test.exe	990dbf60f5d05b21
+3	160	6857722461374617	CMakeFiles/leptjson.dir/leptjson.c.obj	fcad981ac445505
+14	230	6857722462084625	CMakeFiles/leptjson_test.dir/test.c.obj	2a9633ed55bbd93d
+161	265	6857722462454569	libleptjson.a	62145fe0ecc6612c
+266	442	6857722464164671	leptjson_test.exe	990dbf60f5d05b21
+3	122	6857723539373792	CMakeFiles/leptjson.dir/leptjson.c.obj	fcad981ac445505
+123	212	6857723540293792	libleptjson.a	62145fe0ecc6612c
+212	366	6857723541783840	leptjson_test.exe	990dbf60f5d05b21

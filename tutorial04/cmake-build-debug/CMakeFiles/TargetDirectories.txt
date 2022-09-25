@@ -1,0 +1,4 @@
+D:/CLionProjects/JSON_tutorial/tutorial04/cmake-build-debug/CMakeFiles/leptjson.dir
+D:/CLionProjects/JSON_tutorial/tutorial04/cmake-build-debug/CMakeFiles/leptjson_test.dir
+D:/CLionProjects/JSON_tutorial/tutorial04/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/JSON_tutorial/tutorial04/cmake-build-debug/CMakeFiles/rebuild_cache.dir
